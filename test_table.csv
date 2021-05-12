@@ -1,1086 +1,606 @@
-Team,Att,CMP,CMP%,YRDS/ATT,Pass Yards,TD,INT,RATE,1st,1st%
+Name,Team,GP,G,A,TP,PPG,+/-
 "
 
 
+Andrew Poturalski (C/RW)
 
-
-
-            Football Team
-            
-          
-
-            Football Team
-            
-          
-
-","
-                    601
-                  ","
-                    389
-                  ","
-                    64.7
-                  ","
-                    6.3
-                  ","
-                    3796
-                  ","
-                    16
-                  ","
-                    16
-                  ","
-                    80.1
-                  ","
-                    184
-                  ","
-                    30.6
-                  "
+",  San Diego Gulls  , 41 , 9 , 31 , 40 , 0.98 , 10 , -4 
 "
 
 
+T.J. Tynan (C/W)
 
-
-
-            Buccaneers
-            
-          
-
-            Buccaneers
-            
-          
-
-","
-                    626
-                  ","
-                    410
-                  ","
-                    65.5
-                  ","
-                    7.6
-                  ","
-                    4776
-                  ","
-                    42
-                  ","
-                    12
-                  ","
-                    102.8
-                  ","
-                    238
-                  ","
-                    38
-                  "
+",  Colorado Eagles  , 25 , 8 , 27 , 35 , 1.40 , 12 , -2 
 "
 
 
+Cooper Marody (C)
 
-
-
-            Seahawks
-            
-          
-
-            Seahawks
-            
-          
-
-","
-                    563
-                  ","
-                    388
-                  ","
-                    68.9
-                  ","
-                    7.5
-                  ","
-                    4245
-                  ","
-                    40
-                  ","
-                    13
-                  ","
-                    105
-                  ","
-                    216
-                  ","
-                    38.4
-                  "
+",  Bakersfield Condors  , 36 , 21 , 13 , 34 , 0.94 , 18 , 19 
 "
 
 
+Boris Katchouk (LW)
 
-
-
-            49ers
-            
-          
-
-            49ers
-            
-          
-
-","
-                    570
-                  ","
-                    371
-                  ","
-                    65.1
-                  ","
-                    7.6
-                  ","
-                    4320
-                  ","
-                    25
-                  ","
-                    17
-                  ","
-                    90.1
-                  ","
-                    217
-                  ","
-                    38.1
-                  "
+",  Syracuse Crunch  , 29 , 11 , 23 , 34 , 1.17 , 18 , 17 
 "
 
 
+Tyler Benson (LW)
 
-
-
-            Chargers
-            
-          
-
-            Chargers
-            
-          
-
-","
-                    627
-                  ","
-                    413
-                  ","
-                    65.9
-                  ","
-                    7.3
-                  ","
-                    4548
-                  ","
-                    31
-                  ","
-                    10
-                  ","
-                    97
-                  ","
-                    226
-                  ","
-                    36
-                  "
+",  Bakersfield Condors  , 33 , 10 , 24 , 34 , 1.03 , 28 , 16 
 "
 
 
+Adam Mascherin (LW/C)
 
-
-
-            Steelers
-            
-          
-
-            Steelers
-            
-          
-
-","
-                    656
-                  ","
-                    428
-                  ","
-                    65.2
-                  ","
-                    6.3
-                  ","
-                    4129
-                  ","
-                    35
-                  ","
-                    11
-                  ","
-                    93.5
-                  ","
-                    206
-                  ","
-                    31.4
-                  "
+",  Texas Stars  , 34 , 17 , 16 , 33 , 0.97 , 14 , 2 
 "
 
 
+Chase De Leo (C/LW)
 
-
-
-            Cardinals
-            
-          
-
-            Cardinals
-            
-          
-
-","
-                    575
-                  ","
-                    387
-                  ","
-                    67.3
-                  ","
-                    7.1
-                  ","
-                    4102
-                  ","
-                    27
-                  ","
-                    13
-                  ","
-                    94.1
-                  ","
-                    211
-                  ","
-                    36.7
-                  "
+",  San Diego Gulls  , 34 , 14 , 19 , 33 , 0.97 , 18 , 0 
 "
 
 
+Danny O'Regan (C/RW)
 
-
-
-            Eagles
-            
-          
-
-            Eagles
-            
-          
-
-","
-                    598
-                  ","
-                    334
-                  ","
-                    55.9
-                  ","
-                    6.2
-                  ","
-                    3728
-                  ","
-                    22
-                  ","
-                    20
-                  ","
-                    72.9
-                  ","
-                    177
-                  ","
-                    29.6
-                  "
+",  Henderson Silver Knights  , 35 , 14 , 19 , 33 , 0.94 , 4 , 12 
 "
 
 
+Riley Damiani (C)
 
-
-
-            Jets
-            
-          
-
-            Jets
-            
-          
-
-","
-                    499
-                  ","
-                    292
-                  ","
-                    58.5
-                  ","
-                    6.2
-                  ","
-                    3115
-                  ","
-                    16
-                  ","
-                    14
-                  ","
-                    75.9
-                  ","
-                    146
-                  ","
-                    29.3
-                  "
+",  Texas Stars  , 33 , 11 , 22 , 33 , 1.00 , 12 , 1 
 "
 
 
+Riley Barber (RW)
 
-
-
-            Giants
-            
-          
-
-            Giants
-            
-          
-
-","
-                    517
-                  ","
-                    321
-                  ","
-                    62.1
-                  ","
-                    6.5
-                  ","
-                    3336
-                  ","
-                    12
-                  ","
-                    11
-                  ","
-                    79.6
-                  ","
-                    178
-                  ","
-                    34.4
-                  "
+",  Grand Rapids Griffins  , 29 , 18 , 14 , 32 , 1.10 , 22 , 3 
+ , , , , , , , , 
 "
 
 
+Jack Dugan (LW)
 
-
-
-            Saints
-            
-          
-
-            Saints
-            
-          
-
-","
-                    522
-                  ","
-                    370
-                  ","
-                    70.9
-                  ","
-                    7.6
-                  ","
-                    3945
-                  ","
-                    28
-                  ","
-                    8
-                  ","
-                    104.1
-                  ","
-                    199
-                  ","
-                    38.1
-                  "
+",  Henderson Silver Knights  , 34 , 9 , 22 , 31 , 0.91 , 26 , 4 
 "
 
 
+Gabriel Dumont (C/RW)
 
-
-
-            Patriots
-            
-          
-
-            Patriots
-            
-          
-
-","
-                    440
-                  ","
-                    283
-                  ","
-                    64.3
-                  ","
-                    7.1
-                  ","
-                    3124
-                  ","
-                    12
-                  ","
-                    14
-                  ","
-                    81.1
-                  ","
-                    157
-                  ","
-                    35.7
-                  "
+",  Iowa Wild  , 31 , 12 , 18 , 30 , 0.97 , 56 , 4 
 "
 
 
+Nathan Todd (C)
 
-
-
-            Vikings
-            
-          
-
-            Vikings
-            
-          
-
-","
-                    516
-                  ","
-                    349
-                  ","
-                    67.6
-                  ","
-                    8.3
-                  ","
-                    4265
-                  ","
-                    35
-                  ","
-                    13
-                  ","
-                    105
-                  ","
-                    212
-                  ","
-                    41.1
-                  "
+",  Manitoba Moose  , 33 , 11 , 19 , 30 , 0.91 , 8 , 13 
 "
 
 
+Kevin Roy (C/LW)
 
-
-
-            Dolphins
-            
-          
-
-            Dolphins
-            
-          
-
-","
-                    559
-                  ","
-                    370
-                  ","
-                    66.2
-                  ","
-                    7
-                  ","
-                    3937
-                  ","
-                    24
-                  ","
-                    13
-                  ","
-                    91.2
-                  ","
-                    207
-                  ","
-                    37
-                  "
+",  Tucson Roadrunners  , 34 , 11 , 19 , 30 , 0.88 , 16 , -9 
 "
 
 
+Adam Cracknell (RW/C)
 
-
-
-            Raiders
-            
-          
-
-            Raiders
-            
-          
-
-","
-                    551
-                  ","
-                    369
-                  ","
-                    67
-                  ","
-                    8
-                  ","
-                    4383
-                  ","
-                    28
-                  ","
-                    10
-                  ","
-                    100.4
-                  ","
-                    206
-                  ","
-                    37.4
-                  "
+",  Bakersfield Condors  , 36 , 11 , 19 , 30 , 0.83 , 6 , 5 
 "
 
 
+Philip Tomasino (C)
 
-
-
-            Rams
-            
-          
-
-            Rams
-            
-          
-
-","
-                    590
-                  ","
-                    392
-                  ","
-                    66.4
-                  ","
-                    7.1
-                  ","
-                    4183
-                  ","
-                    20
-                  ","
-                    14
-                  ","
-                    88.4
-                  ","
-                    206
-                  ","
-                    34.9
-                  "
+",  Chicago Wolves  , 26 , 13 , 16 , 29 , 1.12 , 43 , 19 
 "
 
 
+Taylor Raddysh (RW)
 
-
-
-            Chiefs
-            
-          
-
-            Chiefs
-            
-          
-
-","
-                    630
-                  ","
-                    420
-                  ","
-                    66.7
-                  ","
-                    7.9
-                  ","
-                    5005
-                  ","
-                    40
-                  ","
-                    7
-                  ","
-                    107.3
-                  ","
-                    255
-                  ","
-                    40.5
-                  "
+",  Syracuse Crunch  , 27 , 12 , 17 , 29 , 1.07 , 10 , 2 
 "
 
 
+Benoit-Olivier Groulx (C/LW)
 
-
-
-            Jaguars
-            
-          
-
-            Jaguars
-            
-          
-
-","
-                    616
-                  ","
-                    387
-                  ","
-                    62.8
-                  ","
-                    6.4
-                  ","
-                    3955
-                  ","
-                    25
-                  ","
-                    16
-                  ","
-                    83.9
-                  ","
-                    205
-                  ","
-                    33.3
-                  "
+",  San Diego Gulls  , 39 , 10 , 19 , 29 , 0.74 , 24 , 14 
 "
 
 
+Ryan McLeod (C)
 
-
-
-            Colts
-            
-          
-
-            Colts
-            
-          
-
-","
-                    552
-                  ","
-                    371
-                  ","
-                    67.2
-                  ","
-                    7.6
-                  ","
-                    4186
-                  ","
-                    24
-                  ","
-                    11
-                  ","
-                    95.9
-                  ","
-                    201
-                  ","
-                    36.4
-                  "
+",  Bakersfield Condors  , 28 , 14 , 14 , 28 , 1.00 , 10 , 23 
 "
 
 
+Arthur Kaliyev (LW)
 
-
-
-            Texans
-            
-          
-
-            Texans
-            
-          
-
-","
-                    546
-                  ","
-                    383
-                  ","
-                    70.1
-                  ","
-                    8.9
-                  ","
-                    4843
-                  ","
-                    33
-                  ","
-                    7
-                  ","
-                    112.3
-                  ","
-                    222
-                  ","
-                    40.7
-                  "
+",  Ontario Reign  , 38 , 13 , 15 , 28 , 0.74 , 20 , 3 
+ , , , , , , , , 
 "
 
 
+Tommy Novak (C)
 
-
-
-            Titans
-            
-          
-
-            Titans
-            
-          
-
-","
-                    485
-                  ","
-                    316
-                  ","
-                    65.2
-                  ","
-                    7.9
-                  ","
-                    3826
-                  ","
-                    33
-                  ","
-                    7
-                  ","
-                    105.9
-                  ","
-                    203
-                  ","
-                    41.9
-                  "
+",  Chicago Wolves  , 24 , 7 , 21 , 28 , 1.17 , 4 , 10 
 "
 
 
+Seth Griffith (C/RW)
 
-
-
-            Packers
-            
-          
-
-            Packers
-            
-          
-
-","
-                    526
-                  ","
-                    372
-                  ","
-                    70.7
-                  ","
-                    8.2
-                  ","
-                    4299
-                  ","
-                    48
-                  ","
-                    5
-                  ","
-                    121.5
-                  ","
-                    216
-                  ","
-                    41.1
-                  "
+",  Bakersfield Condors  , 36 , 9 , 18 , 27 , 0.75 , 6 , 3 
 "
 
 
+Ryan Murphy (D)
 
-
-
-            Lions
-            
-          
-
-            Lions
-            
-          
-
-","
-                    582
-                  ","
-                    374
-                  ","
-                    64.3
-                  ","
-                    7.6
-                  ","
-                    4397
-                  ","
-                    27
-                  ","
-                    13
-                  ","
-                    93.3
-                  ","
-                    220
-                  ","
-                    37.8
-                  "
+",  Henderson Silver Knights  , 35 , 5 , 22 , 27 , 0.77 , 20 , 2 
 "
 
 
+Cole Perfetti (C/LW)
 
-
-
-            Broncos
-            
-          
-
-            Broncos
-            
-          
-
-","
-                    556
-                  ","
-                    317
-                  ","
-                    57
-                  ","
-                    6.6
-                  ","
-                    3673
-                  ","
-                    21
-                  ","
-                    23
-                  ","
-                    72.5
-                  ","
-                    176
-                  ","
-                    31.7
-                  "
+",  Manitoba Moose  , 32 , 9 , 17 , 26 , 0.81 , 2 , 1 
 "
 
 
+Andrew Agozzino (LW/C)
 
-
-
-            Cowboys
-            
-          
-
-            Cowboys
-            
-          
-
-","
-                    639
-                  ","
-                    413
-                  ","
-                    64.6
-                  ","
-                    7.1
-                  ","
-                    4511
-                  ","
-                    25
-                  ","
-                    13
-                  ","
-                    89.9
-                  ","
-                    231
-                  ","
-                    36.2
-                  "
+",  San Diego Gulls  , 28 , 12 , 13 , 25 , 0.89 , 25 , -4 
 "
 
 
+Ryan Poehling (C)
 
-
-
-            Browns
-            
-          
-
-            Browns
-            
-          
-
-","
-                    501
-                  ","
-                    315
-                  ","
-                    62.9
-                  ","
-                    7.4
-                  ","
-                    3701
-                  ","
-                    27
-                  ","
-                    8
-                  ","
-                    96.6
-                  ","
-                    195
-                  ","
-                    38.9
-                  "
+",  Laval Rocket  , 28 , 11 , 14 , 25 , 0.89 , 2 , 5 
 "
 
 
+Otto Somppi (C)
 
-
-
-            Bengals
-            
-          
-
-            Bengals
-            
-          
-
-","
-                    581
-                  ","
-                    372
-                  ","
-                    64
-                  ","
-                    6.5
-                  ","
-                    3793
-                  ","
-                    19
-                  ","
-                    11
-                  ","
-                    85.7
-                  ","
-                    201
-                  ","
-                    34.6
-                  "
+",  Syracuse Crunch  , 31 , 11 , 14 , 25 , 0.81 , 22 , 15 
 "
 
 
+Cole Schneider (LW/C)
 
-
-
-            Bears
-            
-          
-
-            Bears
-            
-          
-
-","
-                    614
-                  ","
-                    402
-                  ","
-                    65.5
-                  ","
-                    6.4
-                  ","
-                    3925
-                  ","
-                    26
-                  ","
-                    16
-                  ","
-                    86.5
-                  ","
-                    218
-                  ","
-                    35.5
-                  "
+",  Texas Stars  , 33 , 10 , 15 , 25 , 0.76 , 2 , -1 
 "
 
 
+Taro Hirose (LW/RW)
 
-
-
-            Panthers
-            
-          
-
-            Panthers
-            
-          
-
-","
-                    550
-                  ","
-                    373
-                  ","
-                    67.8
-                  ","
-                    7.5
-                  ","
-                    4129
-                  ","
-                    16
-                  ","
-                    16
-                  ","
-                    87.5
-                  ","
-                    192
-                  ","
-                    34.9
-                  "
+",  Grand Rapids Griffins  , 26 , 5 , 20 , 25 , 0.96 , 4 , 3 
 "
 
 
+Sam Carrick (C)
 
-
-
-            Bills
-            
-          
-
-            Bills
-            
-          
-
-","
-                    596
-                  ","
-                    410
-                  ","
-                    68.8
-                  ","
-                    8
-                  ","
-                    4786
-                  ","
-                    40
-                  ","
-                    11
-                  ","
-                    107.6
-                  ","
-                    240
-                  ","
-                    40.3
-                  "
+",  San Diego Gulls  , 27 , 14 , 10 , 24 , 0.89 , 19 , 5 
+ , , , , , , , , 
 "
 
 
+Vinni Lettieri (C/RW)
+
+",  San Diego Gulls  , 19 , 13 , 11 , 24 , 1.26 , 12 , -4 
+"
 
 
+Akil Thomas (C)
 
-            Ravens
-            
-          
+",  Ontario Reign  , 38 , 10 , 14 , 24 , 0.63 , 12 , -8 
+"
 
-            Ravens
-            
-          
 
-","
-                    406
-                  ","
-                    257
-                  ","
-                    63.3
-                  ","
-                    7.2
-                  ","
-                    2919
-                  ","
-                    27
-                  ","
-                    11
-                  ","
-                    95.7
-                  ","
-                    142
-                  ","
-                    35
-                  "
+Lucas Elvenes (LW/RW)
+
+",  Henderson Silver Knights  , 35 , 6 , 18 , 24 , 0.69 , 21 , -3 
+"
+
+
+Michael Carcone (LW/RW)
+
+",  Tucson Roadrunners  , 34 , 15 , 8 , 23 , 0.68 , 18 , -13 
+"
+
+
+Nick Baptiste (RW)
+
+",  Texas Stars  , 31 , 12 , 11 , 23 , 0.74 , 18 , 4 
+"
+
+
+Matt Moulson (LW/RW)
+
+",  Hershey Bears  , 31 , 11 , 12 , 23 , 0.74 , 31 , 9 
+"
+
+
+Jordan Weal (C/W)
+
+",  Laval Rocket  , 30 , 6 , 17 , 23 , 0.77 , 20 , 7 
+"
+
+
+Lukas Jasek (RW/C)
+
+",  Utica Comets  , 25 , 4 , 19 , 23 , 0.92 , 8 , -6 
+"
+
+
+Joachim Blichfeld (RW/LW)
+
+",  San Jose Barracuda  , 25 , 12 , 10 , 22 , 0.88 , 6 , 1 
+"
+
+
+Tyler Angle (C)
+
+",  Cleveland Monsters  , 21 , 11 , 11 , 22 , 1.05 , 2 , 9 
+ , , , , , , , , 
+"
+
+
+Josh Currie (RW)
+
+",  Wilkes-Barre/Scranton Penguins  , 22 , 10 , 12 , 22 , 1.00 , 17 , -8 
+"
+
+
+Anthony Louis (C/LW)
+
+",  Texas Stars  , 32 , 10 , 12 , 22 , 0.69 , 6 , 1 
+"
+
+
+Kenny Agostino (LW)
+
+",  Toronto Marlies  , 21 , 9 , 13 , 22 , 1.05 , 2 , 1 
+"
+
+
+Josh Melnick (C/RW)
+
+",  Texas Stars  , 35 , 9 , 13 , 22 , 0.63 , 4 , 3 
+"
+
+
+Rasmus Kupari (C)
+
+",  Ontario Reign  , 31 , 7 , 15 , 22 , 0.71 , 16 , 2 
+"
+
+
+Thomas Harley (D)
+
+",  Texas Stars  , 35 , 5 , 17 , 22 , 0.63 , 29 , -10 
+"
+
+
+Sam Anas (C/RW)
+
+",  Utica Comets  , 20 , 3 , 19 , 22 , 1.10 , 2 , -8 
+"
+
+
+Yegor Sokolov (RW/LW)
+
+",  Belleville Senators  , 30 , 14 , 7 , 21 , 0.70 , 12 , -11 
+"
+
+
+Connor Dewar (C/LW)
+
+",  Iowa Wild  , 29 , 12 , 9 , 21 , 0.72 , 13 , 4 
+"
+
+
+Connor McMichael (C)
+
+",  Hershey Bears  , 31 , 12 , 9 , 21 , 0.68 , 14 , 4 
+ , , , , , , , , 
+"
+
+
+Adam Ruzicka (C/W)
+
+",  Stockton Heat  , 28 , 11 , 10 , 21 , 0.75 , 10 , -12 
+"
+
+
+Dylan Sikura (W/C)
+
+",  Henderson Silver Knights  , 28 , 11 , 10 , 21 , 0.75 , 12 , 6 
+"
+
+
+Tanner Jeannot (LW)
+
+",  Chicago Wolves  , 13 , 10 , 11 , 21 , 1.62 , 33 , 13 
+"
+
+
+Trevor Zegras (C)
+
+",  San Diego Gulls  , 17 , 10 , 11 , 21 , 1.24 , 12 , 7 
+"
+
+
+Morgan Barron (C)
+
+",  Hartford Wolf Pack  , 21 , 10 , 11 , 21 , 1.00 , 20 , 8 
+"
+
+
+Joseph Blandisi (C/LW)
+
+",  Laval Rocket  , 28 , 10 , 11 , 21 , 0.75 , 34 , 9 
+"
+
+
+Joel Kellman (C)
+
+",  San Jose Barracuda  , 19 , 8 , 13 , 21 , 1.11 , 4 , 6 
+"
+
+
+Matthew Phillips (C/RW)
+
+",  Stockton Heat  , 30 , 8 , 13 , 21 , 0.70 , 6 , -10 
+"
+
+
+Philippe Maillet (C)
+
+",  Hershey Bears  , 16 , 6 , 15 , 21 , 1.31 , 8 , 12 
+"
+
+
+Alex Turcotte (C)
+
+",  Ontario Reign  , 31 , 6 , 15 , 21 , 0.68 , 20 , -2 
+ , , , , , , , , 
+"
+
+
+Cameron Hughes (C/LW)
+
+",  Providence Bruins  , 25 , 5 , 16 , 21 , 0.84 , 14 , 0 
+"
+
+
+Cal O'Reilly (C)
+
+",  Lehigh Valley Phantoms  , 29 , 4 , 17 , 21 , 0.72 , 12 , 1 
+"
+
+
+Tyler Sikura (C/LW)
+
+",  Cleveland Monsters  , 27 , 11 , 9 , 20 , 0.74 , 8 , -17 
+"
+
+
+Tyler Gaudet (C)
+
+",  Toronto Marlies  , 28 , 10 , 10 , 20 , 0.71 , 15 , 4 
+"
+
+
+Alexander True (C)
+
+",  San Jose Barracuda  , 27 , 9 , 11 , 20 , 0.74 , 14 , -4 
+"
+
+
+Alexander Chmelevski (C/RW)
+
+",  San Jose Barracuda  , 27 , 9 , 11 , 20 , 0.74 , 32 , -11 
+"
+
+
+Quinton Byfield (C)
+
+",  Ontario Reign  , 30 , 8 , 12 , 20 , 0.67 , 22 , -10 
+"
+
+
+Dylan McLaughlin (C)
+
+",  Rockford IceHogs  , 26 , 7 , 13 , 20 , 0.77 , 2 , -8 
+"
+
+
+Calen Addison (D)
+
+",  Iowa Wild  , 28 , 6 , 14 , 20 , 0.71 , 33 , 4 
+"
+
+
+Jeff Malott (LW)
+
+",  Manitoba Moose  , 31 , 13 , 6 , 19 , 0.61 , 21 , 7 
+ , , , , , , , , 
+"
+
+
+Alex Limoges (C)
+
+",  San Diego Gulls  , 20 , 10 , 9 , 19 , 0.95 , 6 , 12 
+"
+
+
+Tim Gettinger (LW)
+
+",  Hartford Wolf Pack  , 23 , 9 , 10 , 19 , 0.83 , 20 , 2 
+"
+
+
+Brett Murray (LW)
+
+",  Rochester Americans  , 23 , 9 , 10 , 19 , 0.83 , 23 , -6 
+"
+
+
+Brad Malone (C/LW)
+
+",  Bakersfield Condors  , 23 , 9 , 10 , 19 , 0.83 , 33 , 8 
+"
+
+
+Carson Meyer (RW)
+
+",  Cleveland Monsters  , 24 , 8 , 11 , 19 , 0.79 , 13 , 0 
+"
+
+
+Rafaël Harvey-Pinard (LW)
+
+",  Laval Rocket  , 32 , 8 , 11 , 19 , 0.59 , 0 , 12 
+"
+
+
+Michael Bunting (LW/RW)
+
+",  Tucson Roadrunners  , 16 , 7 , 12 , 19 , 1.19 , 14 , -2 
+"
+
+
+Vitali Abramov (LW/RW)
+
+",  Belleville Senators  , 23 , 7 , 12 , 19 , 0.83 , 10 , -4 
+"
+
+
+Chase Pearson (C/LW)
+
+",  Grand Rapids Griffins  , 26 , 7 , 12 , 19 , 0.73 , 2 , 2 
+"
+
+
+Nick Schilkey (RW)
+
+",  Wilkes-Barre/Scranton Penguins  , 30 , 7 , 12 , 19 , 0.63 , 6 , -14 
+ , , , , , , , , 
+"
+
+
+Damien Giroux (C)
+
+",  Iowa Wild  , 31 , 7 , 12 , 19 , 0.61 , 25 , 3 
+"
+
+
+Jakub Lauko (C/W)
+
+",  Providence Bruins  , 23 , 5 , 14 , 19 , 0.83 , 28 , 11 
+"
+
+
+Max Lajoie (D)
+
+",  Chicago Wolves  , 26 , 5 , 14 , 19 , 0.73 , 24 , 8 
+"
+
+
+Kalle Kossila (C/LW)
+
+",  Toronto Marlies  , 23 , 4 , 15 , 19 , 0.83 , 12 , 7 
+"
+
+
+Max Gildon (D)
+
+", totals , 29 , 2 , 17 , 19 , 0.66 , 25 , 18 
+ ,  Syracuse Crunch  , - , - , - , - , - , - , 
+ ,  Bakersfield Condors  , 29 , 2 , 17 , 19 , 0.66 , 25 , 18 
+"
+
+
+Jonah Gadjovich (LW)
+
+",  Utica Comets  , 19 , 15 , 3 , 18 , 0.95 , 17 , 5 
+"
+
+
+Ty Ronning (RW)
+
+",  Hartford Wolf Pack  , 18 , 10 , 8 , 18 , 1.00 , 4 , 2 
+"
+
+
+Ryan Fitzgerald (C/LW)
+
+",  Lehigh Valley Phantoms  , 25 , 10 , 8 , 18 , 0.72 , 6 , 1 
+"
+
+
+Kyle Criscuolo (C)
+
+",  Grand Rapids Griffins  , 27 , 10 , 8 , 18 , 0.67 , 12 , 1 
+"
+
+
+Gerald Mayhew (C/RW)
+
+",  Iowa Wild  , 19 , 9 , 9 , 18 , 0.95 , 19 , -2 
+ , , , , , , , , 
+"
+
+
+Remi Elie (LW)
+
+",  Rochester Americans  , 24 , 9 , 9 , 18 , 0.75 , 14 , 0 
+"
+
+
+Dominik Bokk (RW/LW)
+
+",  Chicago Wolves  , 27 , 9 , 9 , 18 , 0.67 , 10 , 3 
+"
+
+
+Joël Teasdale (LW)
+
+",  Laval Rocket  , 26 , 8 , 10 , 18 , 0.69 , 4 , 9 
+"
+
+
+Bryce Kindopp (RW)
+
+",  San Diego Gulls  , 36 , 8 , 10 , 18 , 0.50 , 4 , 7 
+"
+
+
+David Gustafsson (C)
+
+",  Manitoba Moose  , 19 , 6 , 12 , 18 , 0.95 , 2 , 6 
+"
+
+
+William Bitten (RW/C)
+
+",  Iowa Wild  , 28 , 6 , 12 , 18 , 0.64 , 19 , 4 
+"
+
+
+Fabian Zetterlund (RW/C)
+
+",  Binghamton Devils  , 31 , 6 , 12 , 18 , 0.58 , 6 , -8 
+"
+
+
+Josh Mahura (D)
+
+",  San Diego Gulls  , 25 , 5 , 13 , 18 , 0.72 , 12 , 8 
+"
+
+
+Cameron Schilling (D)
+
+",  Hershey Bears  , 29 , 4 , 14 , 18 , 0.62 , 26 , 13 
