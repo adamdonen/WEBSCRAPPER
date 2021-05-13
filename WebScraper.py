@@ -16,7 +16,7 @@ table = soup.find_all("table")
 
 test = table[1]
 teams = test.find_all("tr")
-for team in teams[1:len(teams)-1]:
+for team in teams[1:len(teams)]:
     stats = team.find_all("td")
     name = stats[1].text
     team = stats[2].text
@@ -28,4 +28,3 @@ for team in teams[1:len(teams)-1]:
     pim = stats[8].text
     plus = stats[9].text
     output.writerow([name,team, gp,g,a,tp,ppg,pim,plus])
-
