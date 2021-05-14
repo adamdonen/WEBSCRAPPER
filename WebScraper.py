@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 import lxml.html as lh
 
-output = csv.writer(open('test_table.csv', 'w'))
+output = csv.writer(open('AHLPlayerStats.csv', 'w'))
 output.writerow(['Name', 'Team', 'GP','G','A','TP','PPG','+/-'])
 # output.writerow(['Team', 'Att', 'CMP', 'CMP%', 'YRDS/ATT',
 #                  'Pass Yards', 'TD', 'INT', 'RATE', '1st', '1st%'])  # , '20', '40', 'LNG', 'SCK', 'SCKY'])
