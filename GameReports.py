@@ -8,7 +8,7 @@ from pip._internal.utils.misc import enum
 
 output = csv.writer(open('game_report.csv', 'w'))
 # output.writerow(
-#     ['Team', 'Name', 'Goals', 'Assists', 'SOG', 'Points', 'Power Play Points', 'Power Play Goals', 'Power Play Assists',
+#     ['Team', 'Name', 'Goals', 'Assists', 'SOG', 'Points', 'Power Play Points', 'Power Play Goals','Power Play Assists',
 #      'Primary Points', 'Primary Power Play Points', 'Even-Strength Goals', 'Even-strength primary assists',
 #      'Even-strength primary points'
 #         , 'Short Handed Points', 'Short Handed Goals', 'Empty-Net Points'])
@@ -154,109 +154,18 @@ for k in range(2):
                 elif len(assistsFrom) > 1 and name in assistsFrom[1] and primeStatsList[i][7] == 'SH':
                     shortHandedPoints += 1
 
-        # 'Team','Name', 'Goals', 'Assists', 'SOG', 'Points', 'Power Play Points', 'Power Play Goals', 'Power Play Assists',
-        #          'Primary Points', 'Primary Power Play Points', 'Even-Strength Goals', 'Even-strength primary assists', 'Even-strength primary points'
-        #         ,'Short Handed Points','Short Handed Goals','Empty-Net Points'
-        teamName = ' '
-        if k == 0:
-            teamName = team1Name
-        else:
-            teamName = team2Name
-        output.writerow([teamName, name, goals, assists, shots, int(goals) + int(assists), ppPoints, ppGoals, ppAssists,
-                         primaryPoints,
-                         primaryPPPoints, evenStrengthGoals, evenStrengthPrimaryAssists, evenStrengthPrimaryPoints,
-                         shortHandedPoints,
-                         shortHandedGoals,
-                         emptyNetPoints])
-
-# teams = test.find_all("tr")
-# for team in teams[1:len(teams)]:
-#     stats = team.find_all("td")
-#     name = stats[1].text
-#     team = stats[2].text
-#     gp = stats[3].text
-#     g = stats[4].text
-#     a = stats[5].text
-#     tp = stats[6].text
-#     ppg = stats[7].text
-#     pim = stats[8].text
-#     plus = stats[9].text
-#     output.writerow([name,team, gp,g,a,tp,ppg,pim,plus])
-#
-# for player in team2List[0:len(team2List)]:
-#     if '\xa0' not in player:
-#         pos = player[0]
-#         num = player[1]
-#         name = player[2]
-#         goals = player[3]
-#         assists = player[4]
-#         plusminus = player[5]
-#         shots = player[6]
-#         penMin = player[7]
-#         ppGoals = 0
-#         ppAssists = 0
-#         ppPoints = 0
-#         primaryPoints = 0
-#         primaryPPPoints = 0
-#         evenStrengthPoints = 0
-#         evenStrengthGoals = 0
-#         evenStrengthAssists = 0
-#         evenStrengthPrimaryPoints = 0
-#         evenStrengthPrimaryAssists = 0
-#         emptyNetPoints = 0
-#         shortHandedPoints = 0
-#         shortHandedGoals = 0
-#         for i in range(len(primeStatsList)):
-#             # goals
-#             if name in primeStatsList[i][5] and primeStatsList[i][7] == 'PP':
-#                 ppGoals += 1
-#                 ppPoints += 1
-#                 primaryPoints += 1
-#                 primaryPPPoints += 1
-#             if name in primeStatsList[i][5] and primeStatsList[i][7] == 'SH':
-#                 shortHandedPoints += 1
-#                 shortHandedGoals += 1
-#             if name in primeStatsList[i][5] and primeStatsList[i][7] == '':
-#                 evenStrengthGoals += 1
-#                 evenStrengthPoints += 1
-#                 evenStrengthPrimaryPoints += 1
-#             if name in primeStatsList[i][5] and primeStatsList[i][7] == 'EN':
-#                 emptyNetPoints += 1
-#
-#             # first assists
-#             assistsFrom = primeStatsList[i][6].split(',')
-#             if name in assistsFrom[0] and primeStatsList[i][7] == 'PP':
-#                 ppAssists += 1
-#                 primaryPoints += 1
-#                 primaryPPPoints += 1
-#
-#             elif len(assistsFrom) > 1 and name in assistsFrom[1] and primeStatsList[i][7] == 'PP':
-#                 ppAssists += 1
-#
-#             if name in assistsFrom[0] and primeStatsList[i][7] == '':
-#                 evenStrengthAssists += 1
-#                 evenStrengthPoints += 1
-#                 evenStrengthPrimaryPoints += 1
-#                 evenStrengthPrimaryAssists += 1
-#             elif len(assistsFrom) > 1 and name in assistsFrom[1] and primeStatsList[i][7] == '':
-#                 evenStrengthAssists += 1
-#             if name in assistsFrom[0] and primeStatsList[i][7] == 'EN':
-#                 emptyNetPoints += 1
-#             elif len(assistsFrom) > 1 and name in assistsFrom[1] and primeStatsList[i][7] == 'EN':
-#                 emptyNetPoints += 1
-#             if name in assistsFrom[0] and primeStatsList[i][7] == 'SH':
-#                 shortHandedPoints += 1
-#             elif len(assistsFrom) > 1 and name in assistsFrom[1] and primeStatsList[i][7] == 'SH':
-#                 shortHandedPoints += 1
-#
-#     # 'Team','Name', 'Goals', 'Assists', 'SOG', 'Points', 'Power Play Points', 'Power Play Goals', 'Power Play Assists',
-#     #          'Primary Points', 'Primary Power Play Points', 'Even-Strength Goals', 'Even-strength primary assists', 'Even-strength primary points'
-#     #         ,'Short Handed Points','Short Handed Goals','Empty-Net Points'
-#
-#     output.writerow(
-#         [team2Name, name, goals, assists, shots, int(goals) + int(assists), ppPoints, ppGoals, ppAssists,
-#          primaryPoints,
-#          primaryPPPoints, evenStrengthGoals, evenStrengthPrimaryAssists, evenStrengthPrimaryPoints,
-#          shortHandedPoints,
-#          shortHandedGoals,
-#          emptyNetPoints])
+            # 'Team','Name', 'Goals', 'Assists', 'SOG', 'Points', 'Power Play Points', 'Power Play Goals', 'Power Play Assists',
+            #          'Primary Points', 'Primary Power Play Points', 'Even-Strength Goals', 'Even-strength primary assists', 'Even-strength primary points'
+            #         ,'Short Handed Points','Short Handed Goals','Empty-Net Points'
+            teamName = ' '
+            if k == 0:
+                teamName = team1Name
+            else:
+                teamName = team2Name
+            output.writerow(
+                [teamName, name, goals, assists, shots, int(goals) + int(assists), ppPoints, ppGoals, ppAssists,
+                 primaryPoints,
+                 primaryPPPoints, evenStrengthGoals, evenStrengthPrimaryAssists, evenStrengthPrimaryPoints,
+                 shortHandedPoints,
+                 shortHandedGoals,
+                 emptyNetPoints])
