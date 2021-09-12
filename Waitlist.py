@@ -56,6 +56,7 @@ for i in range(len(tables)):
         t2 = tables[i].find_all('tr')
         waitList = t2[3].text
         print(className)
+
         print('\n' + waitList)
 
 print(driver)
